@@ -1,7 +1,7 @@
 pcimino-blog
 ============
 
-Picture repo for linking from my blog. Currently <a href="httP://pcimino.blog.com" target="_blank">pcimino.blog.com</a>
+Picture repo for linking from my blog. Currently <a href="httP://http://pcimino.weebly.com/" target="_blank">http://pcimino.weebly.com/</a>
 
 Keeping images here because
 - Easier to upload, especially in bulk
